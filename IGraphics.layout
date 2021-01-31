@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="README.md" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="493" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="Pacman.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="312" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="36" />
+			<Collapse line="46" />
+			<Collapse line="57" />
+			<Collapse line="63" />
+			<Collapse line="69" />
+			<Collapse line="86" />
+			<Collapse line="190" />
+			<Collapse line="261" />
+			<Collapse line="291" />
+			<Collapse line="320" />
+			<Collapse line="343" />
+			<Collapse line="373" />
+			<Collapse line="400" />
+			<Collapse line="419" />
+			<Collapse line="448" />
+			<Collapse line="522" />
+			<Collapse line="620" />
+			<Collapse line="810" />
+			<Collapse line="1000" />
+			<Collapse line="1174" />
+			<Collapse line="1352" />
+			<Collapse line="1357" />
+			<Collapse line="1363" />
+			<Collapse line="1370" />
+			<Collapse line="1377" />
+			<Collapse line="1428" />
+			<Collapse line="1448" />
+			<Collapse line="1467" />
+			<Collapse line="1483" />
+			<Collapse line="1499" />
+			<Collapse line="1522" />
+			<Collapse line="1549" />
+			<Collapse line="1559" />
+			<Collapse line="1632" />
+			<Collapse line="1637" />
+			<Collapse line="1672" />
+			<Collapse line="1682" />
+			<Collapse line="1720" />
+			<Collapse line="1793" />
+			<Collapse line="1945" />
+			<Collapse line="2088" />
+			<Collapse line="2254" />
+			<Collapse line="2400" />
+			<Collapse line="2411" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
